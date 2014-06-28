@@ -1,0 +1,26 @@
+{
+	"name": "sky-paypal",
+	"description": "SKY's PayPal Integration for direct payments",
+	"version": "0.0.1",
+	"keywords": ["sky", "paypal"],
+	"bugs": {
+		"url": "https://github.com/boxman0617/sky-paypal/issues",
+		"email": "alan@deeplogik.com"
+	},
+	"license": "MIT",
+	"creators": [
+		{
+			"name": "Alan Tirado",
+			"email": "alan@deeplogik.com",
+			"url": "http://deeplogik.com"
+		}
+	],
+  "localInstall": "install",
+  "onLoad": "up.php",
+	"file": "SkyPayPal.plugin.php",
+	"repos": [
+		{"git": "https://github.com/boxman0617/sky-paypal.git"}
+	],
+	"phpVersion": ">=5.0.0",
+  "SKYVersion": ">=1.0.0"
+}
