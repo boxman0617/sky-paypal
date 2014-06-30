@@ -1,7 +1,7 @@
 {
 	"name": "sky-paypal",
 	"description": "SKY's PayPal Integration for direct payments",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"keywords": ["sky", "paypal"],
 	"bugs": {
 		"url": "https://github.com/boxman0617/sky-paypal/issues",
